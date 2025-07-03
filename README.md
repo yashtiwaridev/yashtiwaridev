@@ -3,10 +3,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=22D3EE&height=200&section=header&text=Yash%20Tiwari%20-%20Developer&fontSize=45&fontColor=ffffff&animation=fadeIn" alt="Banner" />
 </div>
 
-<!-- Developer Typing Animation -->
+<!-- Working Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&height=60&lines=Hi+👋%2C+I'm+Yash+Tiwari;Flutter+%7C+AI%2FML+%7C+Full+Stack+Developer;Code.+Build.+Innovate." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&height=60&lines=Hi+👋%2C+I'm+Yash+Tiwari;Flutter+%7C+AI%2FML+%7C+Full+Stack+Developer;Code.+Build.+Innovate." alt="Typing SVG" />
 </h1>
+
+<!-- Developer GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Developer GIF" />
+</p>
 
 <!-- Profile Views -->
 <p align="center">
@@ -92,3 +97,10 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
   </a>
 </p>
+
+---
+
+### 💡 Favorite Quote
+> *"Artificial Intelligence is the new electricity. The ones who learn to harness it will lead the future."*  
+> — Andrew Ng
+
