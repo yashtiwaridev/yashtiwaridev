@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=22D3EE&height=200&section=header&text=Yash%20Tiwari%20-%20Developer&fontSize=45&fontColor=ffffff&animation=fadeIn" alt="Banner" />
 </div>
 
-<!-- Working Typing Animation -->
+<!-- Typing Animation -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&height=60&lines=Hi+👋%2C+I'm+Yash+Tiwari;Flutter+%7C+AI%2FML+%7C+Full+Stack+Developer;Code.+Build.+Innovate." alt="Typing SVG" />
 </h1>
@@ -54,33 +54,23 @@
 
 ---
 
-### 📊 GitHub Analytics
-<div align="center">
-
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=yashtiwari-codes&theme=radical&border_radius=10&mode=weekly" alt="GitHub Streak" />
-  </a>
-
-  <a href="https://github.com/yashtiwari-codes">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashtiwari-codes&theme=radical" alt="Summary Card" />
-  </a>
-
-</div>
-
----
-
-### 🌟 Contribution Graph
-<div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashtiwari-codes&theme=tokyo-night&area=true&hide_border=true" alt="Contribution Graph" />
-
-</div>
-
----
-
-### 🏆 GitHub Trophies
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yashtiwari-codes&theme=radical&margin-w=10&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yashtiwari-codes&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+### 🌟 Contribution Calendar
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashtiwari-codes&theme=radical" alt="Contribution Streak" />
+</p>
+
+---
+
+### 💡 Inspirational Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
 </p>
 
 ---
@@ -97,10 +87,3 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
   </a>
 </p>
-
----
-
-### 💡 Favorite Quote
-> *"Artificial Intelligence is the new electricity. The ones who learn to harness it will lead the future."*  
-> — Andrew Ng
-
