@@ -39,16 +39,19 @@
 
 ---
 
-### 🚀 Tech Stack
+### 🚀 My Tech Stack
+
 <div align="center">
 
-| Category        | Technologies                                                                                              |
-|-----------------|-----------------------------------------------------------------------------------------------------------|
-| **Mobile**      | <img src="https://media.giphy.com/media/jnDKfrg6CFb1IuBXkE/giphy.gif" width="30"> Flutter • Dart • Firebase • BLoC • Provider |
-| **AI/ML**       | <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="30"> Python • TensorFlow • Scikit-Learn • OpenCV • Pandas |
-| **Programming** | <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="30"> C++ • Java • Python • Dart |
-| **Web**         | <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="30"> HTML • CSS • JavaScript • Bootstrap |
-| **Tools**       | <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="30"> Git • VS Code • Android Studio • Jupyter • Figma |
+<!-- Core Skills -->
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=121212" alt="Flutter Badge" height="40" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=121212" alt="Dart Badge" height="40" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=121212" alt="Firebase Badge" height="40" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=121212" alt="C++ Badge" height="40" />
+
+<!-- Learning & Exploring -->
+<img src="https://img.shields.io/badge/AI%2FML-Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=121212" alt="AI/ML Learning Badge" height="40" />
+<img src="https://img.shields.io/badge/Web_HTML%2FCSS-Learning-1572B6?style=for-the-badge&logo=html5&logoColor=white&labelColor=121212" alt="Web Learning Badge" height="40" />
 
 </div>
 
