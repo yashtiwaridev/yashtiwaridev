@@ -15,7 +15,7 @@
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yashtiwari-codes&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=yashtiwari-dev&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
 <!-- Portfolio Badge -->
@@ -56,14 +56,14 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashtiwari-codes&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yashtiwari-dev&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
 
 ### 🌟 Contribution Calendar
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashtiwari-codes&theme=radical" alt="Contribution Streak" />
+  <img src="https://github-contributions-api.deno.dev/yashtiwari-dev.svg" alt="GitHub Contribution Graph" />
 </p>
 
 ---
@@ -77,7 +77,7 @@
 
 ### 📬 Connect with me
 <p align="center">
-  <a href="https://linkedin.com/in/yashtiwari-codes">
+  <a href="https://linkedin.com/in/yashtiwari-dev">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
   <a href="mailto:your_email@example.com">
