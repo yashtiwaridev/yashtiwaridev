@@ -1,11 +1,11 @@
-<!-- Animated Banner with Glow Effect -->
+<!-- Animated Banner -->
 <div align="center">
-  <img src="https://github.com/yashtiwari-codes/yashtiwari-codes/blob/main/assets/banner.gif?raw=true" alt="Yash Tiwari Banner" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=22D3EE&height=200&section=header&text=Yash%20Tiwari%20-%20Developer&fontSize=45&fontColor=ffffff&animation=fadeIn" alt="Banner" />
 </div>
 
-<!-- 3D Animated Intro -->
+<!-- Developer Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&height=70&lines=Hello+World!+👋;I'm+Yash+Tiwari;Flutter+%7C+AI%2FML+Developer;DSA+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&height=60&lines=Hi+👋%2C+I'm+Yash+Tiwari;Flutter+%7C+AI%2FML+%7C+Full+Stack+Developer;Code.+Build.+Innovate." alt="Typing SVG" />
 </h1>
 
 <!-- Profile Views -->
@@ -20,7 +20,7 @@
   </a>
 </p>
 
-<!-- Animated Skill Badges -->
+<!-- Skill Badges -->
 <div align="center">
 
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=121212" alt="Flutter Badge" />
@@ -34,7 +34,6 @@
 
 ---
 
-<!-- Animated Grid View -->
 ### 🚀 Tech Stack
 <div align="center">
 
@@ -50,7 +49,6 @@
 
 ---
 
-<!-- GitHub Stats with Glow -->
 ### 📊 GitHub Analytics
 <div align="center">
 
@@ -58,13 +56,14 @@
     <img src="https://streak-stats.demolab.com?user=yashtiwari-codes&theme=radical&border_radius=10&mode=weekly" alt="GitHub Streak" />
   </a>
 
-  <img src="https://metrics.lecoq.io/yashtiwari-codes?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=Asia%2FKolkata" alt="Metrics" />
+  <a href="https://github.com/yashtiwari-codes">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashtiwari-codes&theme=radical" alt="Summary Card" />
+  </a>
 
 </div>
 
 ---
 
-<!-- 3D Contribution Graph -->
 ### 🌟 Contribution Graph
 <div align="center">
 
@@ -74,7 +73,13 @@
 
 ---
 
-<!-- Contact -->
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yashtiwari-codes&theme=radical&margin-w=10&no-frame=true" alt="GitHub Trophies" />
+</p>
+
+---
+
 ### 📬 Connect with me
 <p align="center">
   <a href="https://linkedin.com/in/yashtiwari-codes">
