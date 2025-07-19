@@ -18,10 +18,17 @@
   <img src="https://komarev.com/ghpvc/?username=yashtiwaridev&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
-<!-- Portfolio Badge -->
+<!-- 🚀 Portfolio Badge -->
 <p align="center">
-  <a href="https://yourportfolio.link">
+  <a href="https://mryashtiwari.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/🚀_My_Portfolio-FF4088?style=for-the-badge" alt="Portfolio Badge" />
+  </a>
+</p>
+
+<!-- 🧠 Startups Section -->
+<p align="center">
+  <a href="https://mrprojects.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/🧠_My_Startup_Projects-0A66C2?style=for-the-badge&logo=notion&logoColor=white" alt="My Startups" />
   </a>
 </p>
 
